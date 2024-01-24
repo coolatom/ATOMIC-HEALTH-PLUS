@@ -35,6 +35,7 @@ When in menu, select one of the options:
 5 - System File Checker
 0 - Quit
 ```
+![Screenshot of main view of the A-HEALTH+ utility in Windows Command Line](./assets/images/Screenshot%202024-01-24%20181215.png)
 <div id="badges" align="center">
 <h2> CREDITS </h2>
 <a href="mailto:artemkucheriaviy@gmail.com?Subject=Hello from GitHub!">
